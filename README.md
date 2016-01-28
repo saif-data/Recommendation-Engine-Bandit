@@ -1,4 +1,4 @@
-## Recommendation-Engine-Bandit
+## Recommendation Engine Bandit
 
 Designed a simple Epsilon Greedy Bandit algorithm, to dynamically compare and optimize for the performance of selected recommendation engines.
 
