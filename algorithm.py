@@ -39,7 +39,6 @@ class EpsilonGreedy(object):
 #Integrate the Bandit with the app, to determine the best recommendation algorithm
 
 from flask import Flask, request, render_template, url_for, Response, json
-from yhat import Yhat
 from uuid import uuid4
 import numpy as np
 
